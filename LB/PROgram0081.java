@@ -5,19 +5,30 @@ Q81) Write a PROgram to find its prime or not
 */
 
 import java.util.*;
+
 class Logic
 {
     void CheckPrime(int iNo1)
     {
-        if(iNo1  iNo1 == 1)
+        int iCnt = 0;
+
+        if(iNo1 <= 1)
         {
-            System.out.print("The Given number is Prime");
-        }
-        else
-        {
-            System.out.print("The Given number is Not Prime");
+            System.out.println("The Given Number is Not Prime");
+            return;
         }
 
+        for(iCnt = 2; iCnt * iCnt <= iNo1; iCnt++)              //-/n Approach
+        {
+            if(iNo1 % iCnt == 0)
+            {
+                System.out.println("The Given Number is Not Prime");
+                return;
+            }
+        }
+
+        System.out.println("The Given Number is Prime");
+        
     }
 }
 
