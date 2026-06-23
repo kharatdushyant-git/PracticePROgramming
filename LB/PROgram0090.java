@@ -1,3 +1,9 @@
+/*
+
+Q90) Write a Program that display Exponent of given number 
+
+*/
+
 import java.util.*;
 
 class Logic
