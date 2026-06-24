@@ -1,12 +1,13 @@
 /*
 
-Q115) Write a PROgram that print following pattern
+Q116) Write a PROgram that print following pattern
 
-     input :- iRow = 3  iCol = 4
+     input :- iRow = 4  iCol = 4
      output :-
                 1   2   3   4
                 5   6   7   8
-                9   10  11  12
+                9   1   2   3
+                4   5   6   7
                 
 */
 
@@ -23,7 +24,14 @@ void Pattern(int iRow, int iCol)
         for(iCnt2 = 1; iCnt2 <= iCol; iCnt2++)
         {
             iCnt3++;
+
+            if(iCnt3 > 9)
+            {
+                iCnt3 = 1;
+            }
+            
             printf("%d\t",iCnt3);
+                        
         }
 
         printf("\n");

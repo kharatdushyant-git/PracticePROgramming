@@ -1,6 +1,6 @@
 /*
 
-Q104) Write a PROgram that print following pattern
+Q105) Write a PROgram that print following pattern
 
      input :- 8
      output :- 2   4   6   8   10  12  14  16
