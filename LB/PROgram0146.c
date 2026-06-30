@@ -26,7 +26,7 @@ int CountCapital(char *str)
     return iCnt;
 }
 
-int main()
+int main() 
 {
     char Arr[50];
     int iRet = 0;
