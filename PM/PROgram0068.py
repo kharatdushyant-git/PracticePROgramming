@@ -1,19 +1,19 @@
 '''
 
-Q28) Write a lambda function which accepts two numbers and returns maximum number.
+Assignent 16 :
+
+Q3) Write the lambda Function that accept two Number and reuturn Maximum Number
 
 '''
 
+Maximum = lambda No1, No2: No1 if No1 > No2 else No2
+
 def main():
+    No1, No2 = map(int, input("Enter two numbers: ").split())
 
-    Maximum = lambda A, B : A if A > B else B
+    Result = Maximum(No1, No2)
 
-    Value1 = int(input("Enter first number : "))
-    Value2 = int(input("Enter second number : "))
-
-    Ret = Maximum(Value1, Value2)
-
-    print("Maximum number is :", Ret)
+    print("Maximum Number is:", Result)
 
 if __name__ == "__main__":
     main()

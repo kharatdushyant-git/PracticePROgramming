@@ -1,18 +1,19 @@
 '''
 
-Q27) Write a lambda function which accepts one number and returns cube of that number.
+Assignent 16 :
+
+Q2) Write the lambda Function that accept one Number and reuturn cube of Number
 
 '''
 
+cube = lambda No1 : No1 * No1 * No1
+
 def main():
+    No = int(input("Enter the Number : "))
 
-    Cube = lambda No : No * No * No
+    Ret = cube(No)
 
-    Value = int(input("Enter number : "))
-
-    Ret = Cube(Value)
-
-    print("Cube is :", Ret)
+    print("Cube of number is : ",Ret)
 
 if __name__ == "__main__":
     main()

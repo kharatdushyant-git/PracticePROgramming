@@ -1,18 +1,19 @@
 '''
 
-Q26) Write a lambda function which accepts one number and returns square of that number.
+Assignent 16 :
+
+Q1) Write the lambda Function that accept one Number and reuturn Square of Number
 
 '''
 
+Square = lambda No1 : No1 * No1
+
 def main():
+    No = int(input("Enter the Number : "))
 
-    Square = lambda No : No * No
+    Ret = Square(No)
 
-    Value = int(input("Enter number : "))
-
-    Ret = Square(Value)
-
-    print("Square is :", Ret)
+    print("Square of number is : ",Ret)
 
 if __name__ == "__main__":
     main()
