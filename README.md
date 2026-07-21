@@ -69,23 +69,19 @@ Every commit represents a step toward mastering programming, strengthening probl
 </p>
 
 ---
+                 ⚔️ Skills
 
-# ⚔️ Skills
+      🟢                 🟡
+ Logic Building         Java
+      95%               85%
 
-<div align="center">
+      🔵                 🟠
+    Python                C
+      60%               80%
 
-🟢 **Logic Building** &nbsp;&nbsp;&nbsp; `█████████░` **95%**
-
-🟡 **Java** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░` **85%**
-
-🔵 **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████░░░░` **60%**
-
-🟠 **C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░` **80%**
-
-🟣 **C++** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░` **75%**
-
-🔴 **Machine Learning** &nbsp; `██░░░░░░░░` **20%**
-
+      🟣                 🔴
+      C++         Machine Learning
+      75%               20%
 </div>
 
 ---
