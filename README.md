@@ -55,7 +55,7 @@ Every commit represents a step toward mastering programming, strengthening probl
 
 ```
 📁 LB   → Logic Building
-📁 PM   → Programming Problems
+📁 PM   → Python & Machine Learing
 ```
 
 ---
