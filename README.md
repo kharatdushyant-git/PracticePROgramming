@@ -82,7 +82,6 @@ Every commit represents a step toward mastering programming, strengthening probl
       🟣                 🔴
       C++         Machine Learning
       75%               20%
-</div>
 
 ---
 
