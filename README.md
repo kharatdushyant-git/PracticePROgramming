@@ -1,30 +1,33 @@
-# 🚀 Logic Building Repository
+<h1 align="center">
+  🚀 Welcome to My Coding Journey
+</h1>
 
-This repository documents my programming journey through consistent problem-solving and hands-on coding practice.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Building+Logic+One+Problem+at+a+Time...;Mastering+C,+C%2B%2B+%26+Java...;Exploring+Python+%26+Machine+Learning...;Strengthening+Problem-Solving+Skills...;Writing+Clean+%26+Efficient+Code...;Learning+Today,+Leading+Tomorrow...🚀" />
+</p>
 
-## 📂 Repository Structure
-
-### 📁 LB (Logic Building)
-Solutions to logic-building problems implemented in:
-- C
-- C++
-- Java
-
-Topics include number programs, patterns, bit manipulation, arrays, strings, recursion, and other fundamental programming concepts.
-
-### 📁 PM (Python & Machine Learning)
-Practice programs and projects related to:
-- Python Programming
-- Data Analysis
-- Machine Learning
-- NumPy, Pandas, Matplotlib, Scikit-learn
-
-## 🎯 Purpose
-
-- Strengthen problem-solving skills
-- Master programming fundamentals
-- Prepare for coding interviews
-- Track daily learning and progress
+<p align="center">
+  <b>🧠 Logic Building • 💻 Programming • 🐍 Python • 🤖 Machine Learning • 🚀 Continuous Learning</b>
+</p>
 
 ---
-⭐ *Learning one problem at a time.*
+
+## 📂 Repository Overview
+
+### 💡 LB — Logic Building
+A collection of logic-building problems solved in **C**, **C++**, and **Java**, focused on strengthening programming fundamentals and analytical thinking.
+
+### 🤖 PM — Python & Machine Learning
+Practice programs, hands-on experiments, and machine learning implementations using Python and its ecosystem.
+
+---
+
+### 🎯 Repository Goals
+
+- 🚀 Improve Problem-Solving Skills
+- 💡 Build Strong Programming Fundamentals
+- 🧩 Write Clean & Optimized Code
+- 📚 Learn by Building
+- 🎯 Prepare for Technical Interviews
+
+> **"Every commit is one step closer to becoming a better software engineer."**
