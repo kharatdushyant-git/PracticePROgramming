@@ -10,7 +10,7 @@
 
 <td>
 
-# 👒 PracticePROgramming
+#  PracticePROgramming
 
 ### *"I’m gonna become the King of Programming!"* 💻🏴‍☠️
 
