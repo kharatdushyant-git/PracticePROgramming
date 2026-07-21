@@ -69,21 +69,6 @@ Every commit represents a step toward mastering programming, strengthening probl
 </p>
 
 ---
-                 ⚔️ Skills
-
-      🟢                 🟡
- Logic Building         Java
-      95%               85%
-
-      🔵                 🟠
-    Python                C
-      60%               80%
-
-      🟣                 🔴
-      C++         Machine Learning
-      75%               20%
-
----
 
 ## ☠️ Pirate Code
 
