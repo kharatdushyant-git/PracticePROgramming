@@ -1,6 +1,6 @@
 /*
 
-Q194) write a PROgram that count number that are Smaller than the given number in the given linked list
+Q195) write a PROgram that count number that are Smaller than the given number in the given linked list
 
 */
 
