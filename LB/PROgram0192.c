@@ -1,6 +1,6 @@
 /*
 
-Q193) write a PROgram that print First occurance of number in the given linked list
+Q192) write a PROgram that print First occurance of number in the given linked list
 
 */
 
