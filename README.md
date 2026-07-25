@@ -4,7 +4,7 @@
 <tr>
 <td width="260">
 
-<img src="./Luffy.png" width="220">
+<img src="./Assist/Luffy.png" width="220">
 
 </td>
 
