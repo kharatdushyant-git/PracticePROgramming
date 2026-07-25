@@ -14,8 +14,6 @@
 
 ### *"I’m gonna become the King of Prirates!"* 💻🏴‍☠️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=420&lines=Welcome+Nakama!;Daily+Programming+Practice;Java+%7C+C+%7C+Python;Logic+Building+Journey;Never+Stop+Learning!">
-
 </td>
 </tr>
 </table>
