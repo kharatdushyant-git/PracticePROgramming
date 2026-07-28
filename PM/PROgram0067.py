@@ -1,6 +1,6 @@
 '''
 
-Assignent 16 :
+Assignent 14 :
 
 Q2) Write the lambda Function that accept one Number and reuturn cube of Number
 

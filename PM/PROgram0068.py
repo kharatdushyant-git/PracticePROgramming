@@ -1,8 +1,8 @@
 '''
 
-Assignent 16 :
+Assignent 14 :
 
-Q3) Write the lambda Function that accept two Number and reuturn Maximum Number
+Q3) Write the lambda Function that accept two Number and return Maximum Number
 
 '''
 
