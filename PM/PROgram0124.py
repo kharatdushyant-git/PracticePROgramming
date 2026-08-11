@@ -1,5 +1,5 @@
 '''
-Assignment 22
+Assignment 21
 
 Q10) Design a Python application that creates two threads.
 
