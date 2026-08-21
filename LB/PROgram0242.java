@@ -4,6 +4,7 @@ Q242) Write a Java program to accept a file name from the user
 and check whether that file is a regular file or not.
 
 */
+
 import java.io.*;
 import java.util.*;
 
