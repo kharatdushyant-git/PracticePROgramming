@@ -1,0 +1,44 @@
+import java.io.*;
+import java.util.*;
+
+public class FileCreate
+{
+    public static void main(String args[])
+    {
+        Scanner sobj = new Scanner(System.in);
+
+        System.out.print("Enter file name : ");
+
+        String strFileName = sobj.nextLine();
+
+        File fobj = new File(strFileName);
+
+        try
+        {
+            if(fobj.exists())
+            {
+                System.out.println(strFileName + " already exists");
+            }
+            else
+            {
+                if(fobj.createNewFile())
+                {
+                    System.out.println(strFileName + " created successfully");
+                }
+                else
+                {
+                    System.out.println("Unable to create file");
+                }
+            }
+
+            System.out.println("File name : " + fobj.getName());
+            System.out.println("Absolute path : " + fobj.getAbsolutePath());
+        }
+        catch(IOException e)
+        {
+            System.out.println("Exception occurred : " + e);
+        }
+
+        sobj.close();
+    }
+}
