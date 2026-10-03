@@ -1,5 +1,5 @@
 /*
-Assignment 54 - Question 2
+Assignment 55 - Question 2
 
 Write a program to check whether a given number is Automorphic Number or not.
 
