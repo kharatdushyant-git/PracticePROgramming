@@ -1,5 +1,5 @@
 /*
-Assignment 54 - Question 4
+Assignment 55 - Question 4
 
 Write a program to check whether a given number is Disarium Number or not.
 
