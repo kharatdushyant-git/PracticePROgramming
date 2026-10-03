@@ -1,5 +1,5 @@
 /*
-Assignment 54 - Question 3
+Assignment 55 - Question 3
 
 Write a program to check whether a given number is Sunny Number or not.
 
