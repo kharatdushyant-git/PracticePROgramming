@@ -10,7 +10,7 @@ each file into one newly created file named as
 import java.io.*;
 import java.util.*;
 
-class Program5
+class Program0250
 {
     public static void main(String A[]) throws Exception
     {
