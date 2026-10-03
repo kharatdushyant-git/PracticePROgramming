@@ -1,5 +1,5 @@
 /*
-Assignment 54 - Question 5
+Assignment 55 - Question 5
 
 Write a program to check whether a given number is Trimorphic Number or not.
 
