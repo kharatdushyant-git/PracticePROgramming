@@ -30,7 +30,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
-class Question3
+class PROgram0315
 {
     public static void main(String A[])
     {
