@@ -27,7 +27,7 @@ Demo.txt not found
 import java.io.File;
 import java.util.Scanner;
 
-class Question2
+class PROgram0314
 {
     public static void main(String A[])
     {
