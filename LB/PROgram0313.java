@@ -25,7 +25,7 @@ This assignment should help students understand how an FTP server generates a di
 import java.io.File;
 import java.util.Scanner;
 
-class Question1
+class PROgram0313
 {
     public static void main(String A[])
     {
